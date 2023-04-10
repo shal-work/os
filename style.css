@@ -23,7 +23,7 @@
 	flex-direction: column;
 
 	width: 30%;
-	/* width: calc(100%); */
+	width: 80vw;
    	margin: 0 auto;
 	/* background-color: rgb(150, 206, 241); */
 }
