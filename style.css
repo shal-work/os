@@ -1,0 +1,29 @@
+* {
+	margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box {
+	display: flex;
+	position: absolute;
+	top:0%;
+	height: 100%;
+	width: 100%;
+	/* background-color: yellow; */
+	align-items: center;
+}
+.sizes {
+	display: flex;
+	align-items: flex-start;
+	position: relative;
+	top: 5%;
+	bottom: 5%;
+	justify-content: center;
+	flex-direction: column;
+
+	width: 30%;
+	/* width: calc(100%); */
+   	margin: 0 auto;
+	/* background-color: rgb(150, 206, 241); */
+}
